@@ -1,0 +1,4 @@
+I am some example test code.
+I will be read from in some of the classes in the learningcenter package.
+I'm also cool.
+Or something like that.

@@ -1,4 +1,4 @@
-# java-learning-center
+# Java Learning Center
 A personal hub for me to teach and learn more about Java
 
 ## Tutoring
